@@ -3,7 +3,7 @@ def square_array(arrays)
 new_numbers.push arrays.each do |x|
     puts x * x
   end
-  new_numbers.inspect
+  new_numbers
 end
 
 #def square_array(new_numbers)
