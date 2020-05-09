@@ -1,7 +1,7 @@
-def square_array(array)
+def square_array(numbers)
 
-array.each do |numbers|
-    puts "#{array[numbers] * array[numbers]}"
+numbers.each do |x|
+    puts "#{numbers[x] * numbers[x]}"
   end
   # your code here
 end
