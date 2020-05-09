@@ -6,7 +6,7 @@ new_array = array.each do |numbers|
   # your code here
 end
 
-def square_array(new_numbers)
-  new_numbers. do {|x| x * x }
-  end
-end
+#def square_array(new_numbers)
+#  new_numbers. do {|x| x * x }
+#  end
+#end
