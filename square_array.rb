@@ -1,7 +1,8 @@
 def square_array(arrays)
-arrays.each do |x|
+new_numbers= arrays.each do |x|
     puts x * x
   end
+  new_numbers
 end
 
 #def square_array(new_numbers)
