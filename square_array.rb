@@ -1,5 +1,5 @@
-def square_array(numbers)
-numbers.each do |x|
+def square_array(arrays)
+arrays.each do |x|
     puts x * x
   end
 end
