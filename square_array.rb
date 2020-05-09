@@ -7,6 +7,6 @@ def square_array(array)
 end
 
 def square_array(new_numbers)
-  new_numbers.each do {|x| x * x }
+  new_numbers. do {|x| x * x }
   end
 end
